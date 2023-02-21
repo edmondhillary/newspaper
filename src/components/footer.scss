@@ -1,0 +1,34 @@
+.footer {
+    height: 50px;
+    background-color: #bcc77dd2;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  
+  .footer-content {
+    // background-color: #DFFF00;
+    height: 20%;
+
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    width: 90%;
+    max-width: 1000px;
+  }
+  
+  .footer-links a {
+    color: #000;
+    text-decoration: none;
+    font-size: 1.2rem;
+  }
+  
+  .footer-links a:hover {
+    text-decoration: underline;
+  }
+  
+  .footer-copyright {
+    font-size: 1.2rem;
+    font-style: italic;
+    color: #000;
+  }

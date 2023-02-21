@@ -1,0 +1,94 @@
+.home-class {
+  border: 10px solid black;
+  width: 100%;
+  height: 80vh;
+}
+.container {
+  display: flex;
+  flex-direction: row;
+  min-height: 100vh; /* Establecemos la altura total de la página */
+}
+
+.sidebar {
+  width: 30%;
+  height: 70vh;
+  overflow-y: scroll;
+  border: 2px solid rgb(159, 167, 49);
+  margin: 1rem;
+
+}
+
+.main {
+//   margin: 1rem;
+  margin-right: 0rem;
+//   min-height: 100%;
+  flex-grow: 1;
+  background-attachment: scroll; /* Establecemos la imagen de fondo */
+  background-size: cover; /* Ajustamos la imagen al tamaño del contenedor */
+  background-position: center; /* Centramos la imagen */
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+  justify-content: start;
+  width: 60%;
+//   height: 70vh;
+ 
+}
+.card-side-container {
+  border: 2px solid rgb(159, 167, 49);
+  width: 100%;
+  height: 105px;
+  display: flex;
+  flex-direction: row;
+  padding: 0.5rem;
+  overflow-x: scroll;
+  text-decoration: none;
+  color: black;
+}
+.side-title {
+  width: 65%;
+  font-size: large;
+  text-align: start;
+  padding: 0.1rem;
+}
+.side-img {
+  padding: 0.1rem;
+  border-radius: 50%;
+  width: 33%;
+  border: 3px solid rgb(159, 167, 49);
+  opacity: 0.8;
+}
+.title-side-bar {
+  text-align: center;
+  border: 1px solid rgb(159, 167, 49);
+  letter-spacing: 0.2rem;
+  font-size: 15px;
+  font-weight: 700;
+  background-color:rgb(227, 232, 161);
+}
+.main-div{
+    width: 70%;
+}
+.main-text{
+    text-align: center;
+    font-size: 18px;
+    font-weight: 700;
+    padding: 1rem;
+    width: 70%;
+}
+.explain-container{
+    margin: -0.6rem;
+
+    // padding: 1rem;
+ display: flex;
+ flex-direction: column;
+ justify-content: center;
+ align-items: center;
+ h2{
+    padding-bottom: 1rem;
+ }
+ img{
+    width: 60%;
+    height: 50vh;
+}
+}
