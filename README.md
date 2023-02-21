@@ -16,7 +16,7 @@ Antes de ejecutar este proyecto, debes tener instalado lo siguiente:
 Para instalar el proyecto, sigue estos pasos:
 
 1. Clona el repositorio en tu computadora:
- ### git clone https://github.com/edmonhillary/The-Happy-News
+ ### git clone https://github.com/edmonhillary/newspaper
 2. Instala las dependencias del proyecto: 
 
 ### npm install
