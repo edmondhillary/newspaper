@@ -1,8 +1,6 @@
 # Mi Periódico Online 'The Happy News'
  Bienvenido a 'The Happy News', donde podrás encontrar noticias felices y motivadoras de diversas categorías para animar tu día. A continuación, se detallan las características de este sitio web:
-![BE1F0F70-A72C-45EE-8938-C155C8BE8B1D](https://user-images.githubusercontent.com/114432145/220404929-1dbb093c-1db9-42a8-aedc-9b68f1fcf4f4.jpeg)
-![96634330-E622-4E3A-A32A-81B341E083EE](https://user-images.githubusercontent.com/114432145/220404956-c03914b2-482b-469b-b51b-efded427076f.jpeg)
-![E1FAE526-8C00-4470-A520-DEF560C2072D](https://user-images.githubusercontent.com/114432145/220404978-c071f2d5-ff0d-45b3-a0e3-24a86a3d0b84.jpeg)
+
 
 # Mi proyecto de React
 
@@ -63,5 +61,7 @@ El encabezado (header) del sitio incluye un buscador para buscar noticias desde 
 El pie de página (footer) del sitio contiene información sobre el autor, Edmond Hillary, así como el copyright y la página de contacto.
 
 ¡Gracias por visitar Mi Periódico Online de Noticias Alegres! Esperamos que disfrutes de las noticias y que puedan ayudarte a tener un día más feliz y motivador.
-
+![BE1F0F70-A72C-45EE-8938-C155C8BE8B1D](https://user-images.githubusercontent.com/114432145/220404929-1dbb093c-1db9-42a8-aedc-9b68f1fcf4f4.jpeg)
+![96634330-E622-4E3A-A32A-81B341E083EE](https://user-images.githubusercontent.com/114432145/220404956-c03914b2-482b-469b-b51b-efded427076f.jpeg)
+![E1FAE526-8C00-4470-A520-DEF560C2072D](https://user-images.githubusercontent.com/114432145/220404978-c071f2d5-ff0d-45b3-a0e3-24a86a3d0b84.jpeg)
 
